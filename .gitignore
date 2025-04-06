@@ -3,5 +3,4 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .vscode/
-*.h5
 *.pth

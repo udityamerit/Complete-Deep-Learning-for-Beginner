@@ -1,0 +1,6 @@
+streamlit
+numpy<2
+pandas
+scikit-learn
+tensorflow==2.14
+scikeras
