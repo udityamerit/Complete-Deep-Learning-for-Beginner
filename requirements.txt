@@ -6,3 +6,4 @@ tensorflow
 scikeras
 matplotlib
 seaborn
+pickle
