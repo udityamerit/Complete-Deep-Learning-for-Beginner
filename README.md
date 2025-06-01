@@ -34,9 +34,13 @@ This project is designed to help newcomers understand the foundational concepts 
 
 
 📦 Deep-Learning-for-Beginner
+
 ├── beginner\_ann.ipynb          # Simple Artificial Neural Network example
+
 ├── cnn\_mnist.ipynb             # CNN applied on MNIST dataset
+
 ├── fashion\_mnist\_ann.ipynb     # ANN on Fashion MNIST dataset
+
 ├── README.md                   # Project documentation
 
 
