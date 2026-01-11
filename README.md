@@ -5,6 +5,7 @@ This project is designed to help newcomers understand the foundational concepts 
 
 > 🚀 Whether you're starting your journey into AI or brushing up on core concepts, this repo gives you a clear, beginner-friendly introduction to deep learning.
 
+![alt text](dl.png)
 ---
 
 ## 📚 What You'll Learn
